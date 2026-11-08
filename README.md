@@ -11,26 +11,26 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Downloads on 2026-11-06
+## Downloads on 2026-11-07
 
 | # | Package | Downloads | vs last week |
 |---|---|---|---|
-| 1 | [zod](https://www.npmjs.com/package/zod) | 69,108,856 | - |
-| 2 | [typescript](https://www.npmjs.com/package/typescript) | 64,433,309 | - |
-| 3 | [esbuild](https://www.npmjs.com/package/esbuild) | 63,587,917 | - |
-| 4 | [vite](https://www.npmjs.com/package/vite) | 40,391,072 | - |
-| 5 | [react](https://www.npmjs.com/package/react) | 38,601,810 | - |
-| 6 | [express](https://www.npmjs.com/package/express) | 30,448,481 | - |
-| 7 | [axios](https://www.npmjs.com/package/axios) | 22,795,245 | - |
-| 8 | [next](https://www.npmjs.com/package/next) | 13,844,656 | - |
-| 9 | [webpack](https://www.npmjs.com/package/webpack) | 11,741,499 | - |
-| 10 | [prisma](https://www.npmjs.com/package/prisma) | 3,900,442 | - |
-| 11 | [vue](https://www.npmjs.com/package/vue) | 3,889,034 | - |
-| 12 | [@nestjs/core](https://www.npmjs.com/package/@nestjs/core) | 3,656,202 | - |
-| 13 | [fastify](https://www.npmjs.com/package/fastify) | 3,436,649 | - |
-| 14 | [astro](https://www.npmjs.com/package/astro) | 1,778,730 | - |
-| 15 | [koa](https://www.npmjs.com/package/koa) | 1,509,015 | - |
-| 16 | [svelte](https://www.npmjs.com/package/svelte) | 1,442,722 | - |
-| 17 | [@angular/core](https://www.npmjs.com/package/@angular/core) | 1,371,405 | - |
-| 18 | [mongoose](https://www.npmjs.com/package/mongoose) | 1,342,020 | - |
-| 19 | [nuxt](https://www.npmjs.com/package/nuxt) | 510,506 | - |
+| 1 | [zod](https://www.npmjs.com/package/zod) | 42,383,727 | - |
+| 2 | [esbuild](https://www.npmjs.com/package/esbuild) | 37,891,539 | - |
+| 3 | [typescript](https://www.npmjs.com/package/typescript) | 36,388,113 | - |
+| 4 | [vite](https://www.npmjs.com/package/vite) | 24,592,418 | - |
+| 5 | [react](https://www.npmjs.com/package/react) | 23,373,627 | - |
+| 6 | [express](https://www.npmjs.com/package/express) | 15,898,760 | - |
+| 7 | [axios](https://www.npmjs.com/package/axios) | 9,710,266 | - |
+| 8 | [next](https://www.npmjs.com/package/next) | 8,785,741 | - |
+| 9 | [webpack](https://www.npmjs.com/package/webpack) | 5,175,106 | - |
+| 10 | [prisma](https://www.npmjs.com/package/prisma) | 2,429,313 | - |
+| 11 | [fastify](https://www.npmjs.com/package/fastify) | 1,954,186 | - |
+| 12 | [vue](https://www.npmjs.com/package/vue) | 1,868,555 | - |
+| 13 | [@nestjs/core](https://www.npmjs.com/package/@nestjs/core) | 1,687,091 | - |
+| 14 | [astro](https://www.npmjs.com/package/astro) | 1,209,281 | - |
+| 15 | [svelte](https://www.npmjs.com/package/svelte) | 854,923 | - |
+| 16 | [mongoose](https://www.npmjs.com/package/mongoose) | 631,375 | - |
+| 17 | [koa](https://www.npmjs.com/package/koa) | 586,749 | - |
+| 18 | [@angular/core](https://www.npmjs.com/package/@angular/core) | 495,290 | - |
+| 19 | [nuxt](https://www.npmjs.com/package/nuxt) | 252,554 | - |
