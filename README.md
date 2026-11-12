@@ -11,26 +11,26 @@ node scripts/update.mjs
 ```
 
 <!-- latest -->
-## Downloads on 2026-11-10
+## Downloads on 2026-11-11
 
 | # | Package | Downloads | vs last week |
 |---|---|---|---|
-| 1 | [zod](https://www.npmjs.com/package/zod) | 76,782,632 | +5.7% |
-| 2 | [typescript](https://www.npmjs.com/package/typescript) | 71,866,978 | +6.9% |
-| 3 | [esbuild](https://www.npmjs.com/package/esbuild) | 71,722,883 | +9.8% |
-| 4 | [vite](https://www.npmjs.com/package/vite) | 45,826,030 | +10.7% |
-| 5 | [react](https://www.npmjs.com/package/react) | 43,035,677 | +6.2% |
-| 6 | [express](https://www.npmjs.com/package/express) | 33,871,844 | +5.9% |
-| 7 | [axios](https://www.npmjs.com/package/axios) | 25,813,018 | +6.5% |
-| 8 | [next](https://www.npmjs.com/package/next) | 15,512,013 | +5.6% |
-| 9 | [webpack](https://www.npmjs.com/package/webpack) | 13,158,002 | +5.9% |
-| 10 | [prisma](https://www.npmjs.com/package/prisma) | 4,424,655 | +6.7% |
-| 11 | [vue](https://www.npmjs.com/package/vue) | 4,401,833 | +8.6% |
-| 12 | [@nestjs/core](https://www.npmjs.com/package/@nestjs/core) | 4,330,054 | +9.3% |
-| 13 | [fastify](https://www.npmjs.com/package/fastify) | 3,804,192 | +4.7% |
-| 14 | [astro](https://www.npmjs.com/package/astro) | 1,887,704 | +6.2% |
-| 15 | [koa](https://www.npmjs.com/package/koa) | 1,769,827 | +7.5% |
-| 16 | [svelte](https://www.npmjs.com/package/svelte) | 1,642,076 | +10.6% |
-| 17 | [mongoose](https://www.npmjs.com/package/mongoose) | 1,553,926 | +8.0% |
-| 18 | [@angular/core](https://www.npmjs.com/package/@angular/core) | 1,494,650 | +4.2% |
-| 19 | [nuxt](https://www.npmjs.com/package/nuxt) | 587,224 | +7.8% |
+| 1 | [zod](https://www.npmjs.com/package/zod) | 72,816,916 | -4.8% |
+| 2 | [typescript](https://www.npmjs.com/package/typescript) | 68,380,317 | -3.3% |
+| 3 | [esbuild](https://www.npmjs.com/package/esbuild) | 68,353,433 | -1.8% |
+| 4 | [vite](https://www.npmjs.com/package/vite) | 44,311,049 | +1.9% |
+| 5 | [react](https://www.npmjs.com/package/react) | 41,360,749 | -1.7% |
+| 6 | [express](https://www.npmjs.com/package/express) | 32,368,237 | -4.7% |
+| 7 | [axios](https://www.npmjs.com/package/axios) | 23,985,464 | -7.9% |
+| 8 | [next](https://www.npmjs.com/package/next) | 14,935,548 | -2.7% |
+| 9 | [webpack](https://www.npmjs.com/package/webpack) | 12,189,906 | -8.8% |
+| 10 | [prisma](https://www.npmjs.com/package/prisma) | 4,164,904 | -4.3% |
+| 11 | [vue](https://www.npmjs.com/package/vue) | 4,110,746 | -5.0% |
+| 12 | [@nestjs/core](https://www.npmjs.com/package/@nestjs/core) | 3,981,810 | -6.9% |
+| 13 | [fastify](https://www.npmjs.com/package/fastify) | 3,688,242 | -4.5% |
+| 14 | [astro](https://www.npmjs.com/package/astro) | 1,833,609 | -0.4% |
+| 15 | [mongoose](https://www.npmjs.com/package/mongoose) | 1,663,655 | +6.8% |
+| 16 | [koa](https://www.npmjs.com/package/koa) | 1,593,976 | -13.3% |
+| 17 | [svelte](https://www.npmjs.com/package/svelte) | 1,508,297 | -6.1% |
+| 18 | [@angular/core](https://www.npmjs.com/package/@angular/core) | 1,370,788 | -12.6% |
+| 19 | [nuxt](https://www.npmjs.com/package/nuxt) | 549,853 | -1.1% |
